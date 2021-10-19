@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\lab2Test\lab2Test\bin\Debug\lab2Test.exe.config
+C:\Users\furka\source\repos\lab2Test\lab2Test\bin\Debug\lab2Test.exe
+C:\Users\furka\source\repos\lab2Test\lab2Test\bin\Debug\lab2Test.pdb
+C:\Users\furka\source\repos\lab2Test\lab2Test\obj\Debug\lab2Test.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\lab2Test\lab2Test\obj\Debug\lab2Test.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\lab2Test\lab2Test\obj\Debug\lab2Test.exe
+C:\Users\furka\source\repos\lab2Test\lab2Test\obj\Debug\lab2Test.pdb
